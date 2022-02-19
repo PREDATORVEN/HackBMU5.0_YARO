@@ -1,0 +1,16 @@
+
+
+     WELCOME TO  JACKPOT SUPER MARKET     
+-----------------------------------------
+BNO.:18Feb2022_10_17_58 	TIME:18Feb2210:17:58
+CUSTOMER NAME:Yash Sharma 
+CUSTOMER MOB:8851389176 
+------------------------------------------
+------------------------------------------
+CONFECT_ITEM TOTAL:Rs.346
+COSMETIC _ITEM TOTAL:Rs.0
+GROCERY _ITEM TOTAL:Rs.450
+TOTAL(WITHOUT TAX):Rs.796
+TAX ON ITEMS(5%):Rs.39
+--------------------------------
+GRAND TOTAL:Rs.835
