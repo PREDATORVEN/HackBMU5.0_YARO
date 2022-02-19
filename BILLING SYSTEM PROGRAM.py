@@ -10,7 +10,7 @@ import time
 class call_bill:
 
     def __init__(self, root):
-        #f1=open('entry_file.txt',mode='r')
+        
 
         self.root = root
         mydb = mysql.connector.connect(host='localhost', user='root', password='root', database='supermarket')
